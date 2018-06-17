@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/localuser/Do/scala-guice/target/scala-2.12/scala-guice_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/DummyStudentStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/DummyStudentStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/StudentStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/StudentStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/SimpleModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/SimpleModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/LeniantRegistrar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/LeniantRegistrar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/LeniantRegistrar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/LeniantRegistrar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Student$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Student$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Registrar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Registrar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/DummyStudentStore$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/DummyStudentStore$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Student.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/localuser/Do/scala-guice/target/scala-2.12/classes/example/Student.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/localuser/Do/scala-guice/src/main/scala/example/Main.scala:13:5: value credits is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value credits'?[0m
+[0m[[0m[31merror[0m] [0m[0m    credits = 12[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
